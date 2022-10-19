@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "f7513c10-7440-4f49-b37f-73165781f337",
+		"name": "Phase3 End Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23407542"
+	},
+	"item": [
+		{
+			"name": "GET USERS",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ADD USER",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
